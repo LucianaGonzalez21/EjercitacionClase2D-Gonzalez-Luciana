@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\EjercitacionClase2D-Gonzalez-Luciana\\clases segundo cuatri\\ejercicio_Uno\\ejercicio_Uno\\ejercicio_Uno.csproj",
-      "projectName": "ejercicio_Uno",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\EjercitacionClase2D-Gonzalez-Luciana\\clases segundo cuatri\\ejercicio_Uno\\ejercicio_Uno\\ejercicio_Uno.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\EjercitacionClase2D-Gonzalez-Luciana\\clases segundo cuatri\\ejercicio_Uno\\ejercicio_Dos\\ejercicio_Dos.csproj",
+      "projectName": "ejercicio_Dos",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\EjercitacionClase2D-Gonzalez-Luciana\\clases segundo cuatri\\ejercicio_Uno\\ejercicio_Dos\\ejercicio_Dos.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\EjercitacionClase2D-Gonzalez-Luciana\\clases segundo cuatri\\ejercicio_Uno\\ejercicio_Uno\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\EjercitacionClase2D-Gonzalez-Luciana\\clases segundo cuatri\\ejercicio_Uno\\ejercicio_Dos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

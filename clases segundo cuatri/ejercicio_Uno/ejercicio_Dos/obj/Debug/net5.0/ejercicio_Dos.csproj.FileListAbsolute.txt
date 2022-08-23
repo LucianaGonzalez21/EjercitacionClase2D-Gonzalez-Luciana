@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ejercicio_Dos.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ejercicio_Dos.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ejercicio_Dos.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ejercicio_Dos.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ejercicio_Dos.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ref\ejercicio_Dos.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\bin\Debug\net5.0\ejercicio_Dos.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ref\ejercicio_Dos.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_Dos\obj\Debug\net5.0\ejercicio_Dos.genruntimeconfig.cache
