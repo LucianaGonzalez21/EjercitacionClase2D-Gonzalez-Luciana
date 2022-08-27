@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ejercicio_cuatro.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ejercicio_cuatro.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ejercicio_cuatro.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ejercicio_cuatro.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ejercicio_cuatro.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ref\ejercicio_cuatro.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\bin\Debug\net5.0\ejercicio_cuatro.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ref\ejercicio_cuatro.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_cuatro\obj\Debug\net5.0\ejercicio_cuatro.genruntimeconfig.cache
