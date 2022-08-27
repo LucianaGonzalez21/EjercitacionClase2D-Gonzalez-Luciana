@@ -6,16 +6,16 @@ namespace ejercicio_Dos
     {
         static void Main(string[] args)
         {
-            double numero;
+            double numeroIngresado;
 
             Console.WriteLine("Ingrese un numero:");
 
-            if (double.TryParse(Console.ReadLine(), out numero) && numero > 0)
+            if (double.TryParse(Console.ReadLine(), out numeroIngresado) && numeroIngresado > 0)
             {
-                double cuadrado = Math.Pow(numero, 2);
-                double cubo = Math.Pow(numero, 3);
+                double numeroAlCuadrado = Math.Pow(numeroIngresado, 2);
+                double numeroAlCubo = Math.Pow(numeroIngresado, 3);
 
-                Console.WriteLine($"Numero: {numero} Cuadrado: {cuadrado} Cubo: {cubo}");
+                Console.WriteLine($"Numero: {numeroIngresado} Cuadrado: {numeroAlCuadrado} Cubo: {numeroAlCubo}");
 
             }
             else

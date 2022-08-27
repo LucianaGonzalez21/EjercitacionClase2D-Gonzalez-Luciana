@@ -6,27 +6,27 @@ namespace ejercicio_Uno
     {
         static void Main(string[] args)
         {
-            int numero;
-            int maximo = int.MinValue;
-            int minimo = int.MaxValue;
-            int acumulador = 0;
+            int numeroIngresado;
+            int numeroIngresadoMaximo = int.MinValue;
+            int numeroIngresadoMinimo = int.MaxValue;
+            int acumuladorDeNumeros = 0;
             int contador = 0;
 
             for (int i = 0; i<5; i++)
             {
                 Console.WriteLine("Ingrese un numero: ");
 
-                if (int.TryParse(Console.ReadLine(), out numero))
+                if (int.TryParse(Console.ReadLine(), out numeroIngresado))
                 {
-                    if (numero > maximo)
+                    if (numeroIngresado > numeroIngresadoMaximo)
                     {
-                        maximo = numero;
+                        numeroIngresadoMaximo = numeroIngresado;
                     }
-                    if (numero < minimo)
+                    if (numeroIngresado < numeroIngresadoMinimo)
                     {
-                        minimo = numero;
+                        numeroIngresadoMinimo = numeroIngresado;
                     }
-                    acumulador+=numero;
+                    acumuladorDeNumeros+=numeroIngresado;
                     contador++;
                 }
                 else
@@ -37,9 +37,9 @@ namespace ejercicio_Uno
 
             if (contador>0)
             {
-                float promedio = acumulador / contador;
+                float promedio = acumuladorDeNumeros / contador;
 
-                Console.WriteLine($"Numero maximo: {maximo} Numero minimo: {minimo} Promedio: {promedio}");
+                Console.WriteLine($"Numero maximo: {numeroIngresadoMaximo} Numero minimo: {numeroIngresadoMinimo} Promedio: {promedio}");
 
             }
             else

@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ejercicio_tres.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ejercicio_tres.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ejercicio_tres.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ejercicio_tres.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ejercicio_tres.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ref\ejercicio_tres.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\bin\Debug\net5.0\ejercicio_tres.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ref\ejercicio_tres.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\ejercicio_tres\obj\Debug\net5.0\ejercicio_tres.genruntimeconfig.cache
