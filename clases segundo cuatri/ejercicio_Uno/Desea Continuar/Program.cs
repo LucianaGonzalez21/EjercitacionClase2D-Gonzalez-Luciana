@@ -6,27 +6,27 @@ namespace Desea_Continuar
     {
         static void Main(string[] args)
         {
-            int numero;
-            int acumulador = 0;
-            string respuesta;
+            int numeroIngresado;
+            int acumuladorDeNumeros = 0;
+            string respuestaIngresada;
 
             do
             {
                 Console.WriteLine("Ingrese un numero: ");
 
-                while (int.TryParse(Console.ReadLine(), out numero) == false)
+                while (int.TryParse(Console.ReadLine(), out numeroIngresado) == false)
                 {
                     Console.WriteLine("Error. Ingrese un numero: ");
                 }
 
-                acumulador += numero;
+                acumuladorDeNumeros += numeroIngresado;
 
-                Console.WriteLine($"Suma: {acumulador}");
+                Console.WriteLine($"Suma: {acumuladorDeNumeros}");
 
                 Console.WriteLine("Desea continuar? (S/N)");
-                respuesta = Console.ReadLine();
+                respuestaIngresada = Console.ReadLine();
 
-            } while (Validador.ValidarRespuesta(respuesta));
+            } while (Validador.ValidarRespuesta(respuestaIngresada));
         }
     }
 }

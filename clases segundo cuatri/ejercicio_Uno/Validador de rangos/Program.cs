@@ -6,34 +6,34 @@ namespace Validador_de_rangos
     {
         static void Main(string[] args)
         {
-            int numero;
-            int minimo = int.MaxValue;
-            int maximo = int.MinValue;
-            int acumulador = 0;
-            float promedio;
-            int contador = 0;
+            int numeroIngresado;
+            int numeroMinimo = int.MaxValue;
+            int numeroMaximo = int.MinValue;
+            int acumuladorNumeros = 0;
+            float promedioDeNumeros;
+            int cantidadDeNumeros = 0;
 
             for (int i = 0; i<10; i++)
             {
                 Console.WriteLine("Ingrese un numero: ");
 
-                if (int.TryParse(Console.ReadLine(), out numero))
+                if (int.TryParse(Console.ReadLine(), out numeroIngresado))
                 {
 
-                    if (Validador.Validar(numero, -100, 100))    //si ingreso un numero fuera de rango, este se pierde
+                    if (Validador.Validar(numeroIngresado, -100, 100))    //si ingreso un numero fuera de rango, este se pierde
                     {
-                        if (numero < minimo)
+                        if (numeroIngresado < numeroMinimo)
                         {
-                            minimo = numero;
+                            numeroMinimo = numeroIngresado;
                         }
 
-                        if (numero > maximo)
+                        if (numeroIngresado > numeroMaximo)
                         {
-                            maximo = numero;
+                            numeroMaximo = numeroIngresado;
                         }
 
-                        acumulador += numero;
-                        contador++;
+                        acumuladorNumeros += numeroIngresado;
+                        cantidadDeNumeros++;
                     }
                     else
                     {
@@ -47,11 +47,11 @@ namespace Validador_de_rangos
                 }
             }
 
-            if (acumulador>0 && contador>0)
+            if (acumuladorNumeros>0 && cantidadDeNumeros>0)
             {
-                promedio = (float)acumulador/contador;
+                promedioDeNumeros = (float)acumuladorNumeros/cantidadDeNumeros;
 
-                Console.WriteLine("Valor minimo: {0} Valor maximo {1} Promedio: {2}", minimo, maximo, promedio);
+                Console.WriteLine("Valor minimo: {0} Valor maximo {1} Promedio: {2}", numeroMinimo, numeroMaximo, promedioDeNumeros);
             }
             else
             {
