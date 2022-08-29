@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\La calculadora.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\La calculadora.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\La calculadora.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\La calculadora.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\La calculadora.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\ref\La calculadora.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\bin\Debug\net5.0\La calculadora.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\ref\La calculadora.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\La calculadora\obj\Debug\net5.0\La calculadora.genruntimeconfig.cache

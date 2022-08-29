@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\Pitagoras estaria orgulloso.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\Pitagoras estaria orgulloso.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\Pitagoras estaria orgulloso.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\Pitagoras estaria orgulloso.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\Pitagoras estaria orgulloso.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\ref\Pitagoras estaria orgulloso.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\bin\Debug\net5.0\Pitagoras estaria orgulloso.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\ref\Pitagoras estaria orgulloso.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Pitagoras estaria orgulloso\obj\Debug\net5.0\Pitagoras estaria orgulloso.genruntimeconfig.cache

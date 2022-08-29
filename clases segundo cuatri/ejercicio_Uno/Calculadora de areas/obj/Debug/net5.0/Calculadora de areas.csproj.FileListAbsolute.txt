@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\Calculadora de areas.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\Calculadora de areas.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\Calculadora de areas.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\Calculadora de areas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\Calculadora de areas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\ref\Calculadora de areas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\bin\Debug\net5.0\Calculadora de areas.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\ref\Calculadora de areas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Calculadora de areas\obj\Debug\net5.0\Calculadora de areas.genruntimeconfig.cache

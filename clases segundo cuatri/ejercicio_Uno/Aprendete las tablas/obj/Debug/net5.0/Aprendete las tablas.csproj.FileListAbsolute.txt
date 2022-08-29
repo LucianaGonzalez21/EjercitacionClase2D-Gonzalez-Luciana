@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\Aprendete las tablas.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\Aprendete las tablas.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\Aprendete las tablas.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\Aprendete las tablas.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\Aprendete las tablas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\ref\Aprendete las tablas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\bin\Debug\net5.0\Aprendete las tablas.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\ref\Aprendete las tablas.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\Aprendete las tablas\obj\Debug\net5.0\Aprendete las tablas.genruntimeconfig.cache

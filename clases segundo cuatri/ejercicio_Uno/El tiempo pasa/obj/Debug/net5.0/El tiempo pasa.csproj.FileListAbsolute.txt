@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\El tiempo pasa.exe
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\El tiempo pasa.deps.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\El tiempo pasa.runtimeconfig.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\El tiempo pasa.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\El tiempo pasa.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\ref\El tiempo pasa.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\bin\Debug\net5.0\El tiempo pasa.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\ref\El tiempo pasa.dll
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.pdb
+C:\Users\Dell\Desktop\EjercitacionClase2D-Gonzalez-Luciana\clases segundo cuatri\ejercicio_Uno\El tiempo pasa\obj\Debug\net5.0\El tiempo pasa.genruntimeconfig.cache

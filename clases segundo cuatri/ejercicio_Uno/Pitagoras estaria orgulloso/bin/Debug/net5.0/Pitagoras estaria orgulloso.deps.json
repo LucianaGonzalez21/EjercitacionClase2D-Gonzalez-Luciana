@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pitagoras estaria orgulloso/1.0.0": {
+        "runtime": {
+          "Pitagoras estaria orgulloso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pitagoras estaria orgulloso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
